@@ -1,7 +1,6 @@
 
 V
-java:S1220""Move this file to a named package.J$e45bc6cc-409f-46c7-9c29-7fb93b2d7993
-f
-java:S3457"%String contains no format specifiers.(Šªž„ýÿÿÿÿJ$91908238-5fa9-4dd0-88b2-257cf7ddc8f3
-k	java:S106"+Replace this use of System.out by a logger.(Šªž„ýÿÿÿÿJ$23fe5152-6bc4-4b81-ab4c-ac0d6a9a8bb0
-k	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿJ$ababbefd-eeee-46dd-b650-ef47288722b4
+java:S1220""Move this file to a named package.J$aedcb907-91dd-45e6-a396-052337b1d524
+a
+java:S3457"%String contains no format specifiers.(¬³¼ïJ$32652ccc-e501-46ee-b5d5-a44d190a57a9
+f	java:S106"+Replace this use of System.out by a logger.(¬³¼ïJ$bad84166-1766-4856-b425-91b3f5183b52
