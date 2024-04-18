@@ -132,3 +132,5 @@ Z
 ,src/models_of_heroes/abstracts/Predator.java,e\5\e546a93acde94c765c358fb2861a4aec770794c7
 Z
 *src/models_of_heroes/abstracts/Entity.java,4\9\49a767ba7b9f433a1c1390fe707a30d89aa330da
+U
+%resources/characteristics_models.json,d\b\db28db6a83f7e9aeebe370228515e01d18212937

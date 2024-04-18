@@ -1,0 +1,80 @@
+{
+  "Wolf" : {
+    "weight": 50.0,
+    "maxCountOfField": 30,
+    "speed": 3,
+    "kgFullEating": 8.0
+  },
+  "Fox" : {
+    "weight": 8.0,
+    "maxCountOfField": 30,
+    "speed": 2,
+    "kgFullEating": 2.0
+  },
+  "Eagle" : {
+    "weight": 6.0,
+    "maxCountOfField": 20,
+    "speed": 3,
+    "kgFullEating": 1.0
+  },
+  "Boa" : {
+    "weight": 15.0,
+    "maxCountOfField": 30,
+    "speed": 1,
+    "kgFullEating": 3.0
+  },
+  "Sheep" : {
+    "weight": 70.0,
+    "maxCountOfField": 140,
+    "speed": 3,
+    "kgFullEating": 15.0
+  },
+  "Rabbit" : {
+    "weight": 2.0,
+    "maxCountOfField": 150,
+    "speed": 2,
+    "kgFullEating": 0.45
+  },
+  "Mous" : {
+    "weight": 0.05,
+    "maxCountOfField": 500,
+    "speed": 1,
+    "kgFullEating": 0.01
+  },
+  "Horse" : {
+    "weight": 400.0,
+    "maxCountOfField": 20,
+    "speed": 4,
+    "kgFullEating": 60.0
+  },
+  "Goat" : {
+    "weight": 60.0,
+    "maxCountOfField": 140,
+    "speed": 3,
+    "kgFullEating": 10.0
+  },
+  "Duck" : {
+    "weight": 1.0,
+    "maxCountOfField": 200,
+    "speed": 4,
+    "kgFullEating": 0.15
+  },
+  "Deer" : {
+    "weight": 300.0,
+    "maxCountOfField": 20,
+    "speed": 4,
+    "kgFullEating": 50.0
+  },
+  "Caterpillar" : {
+    "weight": 0.01,
+    "maxCountOfField": 1000,
+    "speed": 0,
+    "kgFullEating": 0.0
+  },
+  "Buffalo" : {
+    "weight": 700.0,
+    "maxCountOfField": 10,
+    "speed": 3,
+    "kgFullEating": 100.0
+  }
+}
