@@ -1,7 +1,6 @@
 package config;
 
-import models_of_heroes.Animal;
-import models_of_heroes.Entity;
+import models_of_heroes.abstracts.Entity;
 
 import java.util.Map;
 

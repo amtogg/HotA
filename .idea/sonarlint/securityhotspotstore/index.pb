@@ -122,3 +122,13 @@ W
 'src/models_of_heroes/predators/Fox.java,7\a\7a9a2bf8461fd6ea0362d845e0d9f4e17e44e8c5
 X
 (src/models_of_heroes/predators/Bear.java,4\0\40ef8b72cbc18140b1f59d47ae02e069b71bfa60
+G
+src/service/Action.java,2\a\2ab8ecbd322cd8e47dbaed55974c847fe6cfadd8
+M
+src/service/ActionAnimal.java,d\8\d85c0ee7cde526c760567eb0be5c5dd48427aa5b
+Z
+*src/models_of_heroes/abstracts/Animal.java,f\9\f9537006c0c0f5e5a9e99318375a0dfa2625dbfe
+\
+,src/models_of_heroes/abstracts/Predator.java,e\5\e546a93acde94c765c358fb2861a4aec770794c7
+Z
+*src/models_of_heroes/abstracts/Entity.java,4\9\49a767ba7b9f433a1c1390fe707a30d89aa330da

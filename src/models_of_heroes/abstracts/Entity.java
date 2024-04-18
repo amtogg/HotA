@@ -1,6 +1,14 @@
-package models_of_heroes;
+package models_of_heroes.abstracts;
 
-public class Entity {
+public abstract class Entity {
+    // public
+    protected Entity(Double weight, Integer maxCountOfField, Integer speed, Double kgFullEating) {
+        this.weight = weight;
+        this.maxCountOfField = maxCountOfField;
+        this.speed = speed;
+        this.kgFullEating = kgFullEating;
+    }
+
     private Double weight;
     private Integer maxCountOfField;
     private Integer speed;
