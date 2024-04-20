@@ -134,3 +134,15 @@ Z
 *src/models_of_heroes/abstracts/Entity.java,4\9\49a767ba7b9f433a1c1390fe707a30d89aa330da
 U
 %resources/characteristics_models.json,d\b\db28db6a83f7e9aeebe370228515e01d18212937
+X
+(src/models_of_heroes/enums/EnumTupe.java,4\3\43e727511ceeb65512d09e83c83e7dc4f495bd7f
+Z
+*src/models_of_heroes/enums/EntityTupe.java,3\4\34259c8092f04238237d2535464147c6a94784f9
+Z
+*src/models_of_heroes/enums/EntityType.java,c\0\c06da447563a1d8c02e1cec999270b4863083a0c
+T
+$resources/possibility_of_eating.json,d\7\d7991afbc429578dae0a4b09b16dd8c5e5ba0791
+U
+%src/config/EntityCharacteristics.java,6\3\6385ca659139ead23eac59ec48f9b1fb9cabe0af
+U
+%resources/characteristics_entity.json,c\c\cc57f56bc3b61cd2cd966ae52c0757b094450589

@@ -1,5 +1,5 @@
 {
-  "Wolf" : {
+  "Wolf": {
     "weight": 50.0,
     "maxCountOfField": 30,
     "speed": 3,
