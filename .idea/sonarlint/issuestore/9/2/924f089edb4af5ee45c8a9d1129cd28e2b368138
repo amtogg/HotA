@@ -1,14 +1,6 @@
 
-ã
-java:S6539"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 21 to the maximum authorized 20 or less.(àªÅö8ó‚†‹ñ1J$99e68613-0e9b-4882-88cc-1868c747f7cf
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõ¸ï8ó‚†‹ñ1J$cf82baa6-1fbd-4e26-9ee8-016281777c16
 ]
-java:S1220""Move this file to a named package.8ó‚†‹ñ1J$8ea0946a-78d7-4b08-82d5-cc08524464d6
-
-java:S1854"LRemove this useless assignment to local variable "possibilityOfEatenConfig".(ìÇÚ¸8ó‚†‹ñ1J$8bbd1a2a-e6bf-4ab8-a89d-f125cf22071b
-€
-java:S1481"=Remove this unused "possibilityOfEatenConfig" local variable.(ìÇÚ¸8Œƒ†‹ñ1J$397ae340-0e11-4148-acbf-a1ed628cbf78
-ƒ	java:S125#"<This block of commented-out lines of code should be removed.(½»È–ûÿÿÿÿ8Œƒ†‹ñ1J$3d185b88-db05-47cc-9fcd-92bd36e58334
-r	java:S106'"+Replace this use of System.out by a logger.(°öØÄşÿÿÿÿ8”ƒ†‹ñ1J$ab963162-8bc0-4d33-8993-829387a155ca
-
-java:S16123"EReplace this lambda with method reference 'Animal.class::isInstance'.(íÙ«–ıÿÿÿÿ8”ƒ†‹ñ1J$6097fbd3-8c5a-4734-8129-0de6e366305d
+java:S1220""Move this file to a named package.8ó‚†‹ñ1J$83f260fe-15a6-4550-9596-aada51f3b13d
+B
+java:S3457"%String contains no format specifiers.(¬³¼ï8™Âº‹ñ1
+G	java:S106"+Replace this use of System.out by a logger.(¬³¼ï8œÂº‹ñ1
