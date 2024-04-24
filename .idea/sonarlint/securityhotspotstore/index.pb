@@ -146,3 +146,81 @@ U
 %src/config/EntityCharacteristics.java,6\3\6385ca659139ead23eac59ec48f9b1fb9cabe0af
 U
 %resources/characteristics_entity.json,c\c\cc57f56bc3b61cd2cd966ae52c0757b094450589
+X
+(src/config/PossibilityOfEatenConfig.java,8\1\81802b0ebf8b4e15f9b05630127c417a00725cb3
+[
++src/config/EntityCharacteristicsConfig.java,7\0\709213affad8eec8ea1756346244d1280e79f171
+O
+src/config/FieldSizeConfig.java,7\4\74ccb50989954f6bf8599e0f178ea690f5ddbd16
+V
+&src/models_of_heroes/plants/Grass.java,3\2\32c7d4ab8b61b1223b3ad26e862a3f25d7c59388
+]
+-src/models_of_heroes/enums/DirectionType.java,4\9\49eb5c454158346cfbe5dff6d504757f34216768
+P
+ src/service/СhoosDirection.java,1\6\16ba50f8cb96e6a4613d1279dc0a268fea34a022
+X
+(src/service/СhooseDirectionService.java,7\5\7521835dcce99e59d8cc7db88c3c74b7b53f79b1
+L
+src/service/moveService.java,6\5\65489b2550aea742586b70c1eaad767366e5ca20
+P
+ src/models_of_heroes/Island.java,b\8\b84b42360f7be030f41f54bbd2d799772b433899
+F
+src/models/Island.java,c\b\cb27d1c5f898d36fa935a33c931408cafa41e754
+Q
+!src/service/impl/moveService.java,a\1\a124b187fb31b83c6c95193f3e1440428a39d357
+U
+%src/service/impl/moveServiceImpl.java,5\2\523a7f9301e0d06c4598d4eda60896adb219b99d
+U
+%src/service/impl/MoveServiceImpl.java,8\a\8ac3c4ff66895407480ce3149b74b32b3ada9759
+L
+src/service/MoveService.java,a\f\afce0913db138eaf6e7ee4707140b2a15fe04d91
+P
+ src/models/abstracts/Animal.java,9\7\9752daabaf8e11dd2ce9e9b4e56e66f251ab2709
+M
+src/models/plants/Plants.java,1\f\1f564645b2f556b933dfc1c8d32f204713e8600b
+L
+src/models/plants/Grass.java,d\7\d7ce498ff308ffe3f0527e9f9c56bc8e59766a5f
+]
+-.idea/libraries/jackson_databind_2_13_2_2.xml,f\1\f12fae7d1a20dc9171af0601d778cf6df3872580
+^
+..idea/libraries/jackson_annotations_2_17_0.xml,8\3\831bb7390ffa584f649392fbe2d205ca5f9a5361
+P
+ src/models/enums/EntityType.java,7\3\73b487b4d576fafd31c7927374eb60cb050c578a
+S
+#src/models/enums/DirectionType.java,9\a\9ab4a6377218fa4497847643f52ac2b5104584f8
+N
+src/models/predators/Wolf.java,c\e\ce664e9c75687fafa53792fb4c413bce2eb491e9
+M
+src/models/predators/Boa.java,5\8\5856fc2d9154ede135053d4fb589a54433e10a05
+O
+src/models/predators/Eagle.java,8\d\8d81a2af2aebba2893094c0cefbe0c3dd7dd7698
+P
+ src/models/herbaceous/Horse.java,8\e\8e3bdcfcc603eb23a18622eeddfd910f38576fc0
+M
+src/models/predators/Fox.java,e\a\ea90ea80c023bae3702b1dc8a082616ea174e094
+N
+src/models/predators/Bear.java,d\6\d664883a33c6ee8c6a6df320659f15b1f15d67c5
+O
+src/models/herbaceous/Mous.java,8\2\82021a3503a24bbc58293f96ed88282e152e9d68
+O
+src/models/herbaceous/Goat.java,8\8\887276ee65d0d8500daf735dfaf97d891600d9f9
+O
+src/models/herbaceous/Deer.java,8\4\845afa1e9045dcebd99ac7d13f48044da790b3ed
+Q
+!src/models/herbaceous/Rabbit.java,d\a\da6470247abfb091de58512f1954871b664df06c
+R
+"src/models/herbaceous/Buffalo.java,8\a\8a54014d2821eeac70c0872dede6129e176e1054
+O
+src/models/herbaceous/Duck.java,e\2\e22e85bc2210da9f33270048d0b906396ac9c75d
+P
+ src/models/herbaceous/Sheep.java,b\1\b10ce7f3a2ec2b48126786f69a23a009df1a05d7
+a
+1src/service/impl/СhooseDirectionServiceImpl.java,2\b\2b4c278a511722b5ae8e5552ae780781e11d740f
+O
+src/models/herbaceous/Boar.java,0\e\0eb3d68d70d1b5423de61c7dfd871bbd4b102279
+V
+&src/models/herbaceous/Caterpillar.java,e\3\e3676ee1e7f70f251bbb18fb75971b3bfc42fad5
+R
+"src/models/abstracts/Predator.java,6\8\68c36befe80ea85f7ba981395152f3213ae207df
+P
+ src/models/abstracts/Entity.java,2\f\2f1b57b0078b781138c1ac8c9c8a2670498836ad

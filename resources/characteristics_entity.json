@@ -1,5 +1,11 @@
 {
-  "Wolf": {
+  "grass": {
+    "weight": 1.0,
+    "maxCountOfField": 200,
+    "speed": 0,
+    "kgFullEating": 0.0
+  },
+  "wolf": {
     "weight": 50.0,
     "maxCountOfField": 30,
     "speed": 3,
